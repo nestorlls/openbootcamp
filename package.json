@@ -1,0 +1,23 @@
+{
+  "name": "ejercicios",
+  "version": "1.0.0",
+  "description": "Desarrollo y avance de programacion",
+  "main": "script.js",
+  "scripts": {
+    "saludar" : "Hola, este es mi primer ejercicio con Node en el mejor Bootcamp de programación del mundo",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nestorlls/openbootcamp.git"
+  },
+  "keywords": [
+    "openbootcamp"
+  ],
+  "author": "Paul llanque",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nestorlls/openbootcamp/issues"
+  },
+  "homepage": "https://github.com/nestorlls/openbootcamp#readme"
+}
