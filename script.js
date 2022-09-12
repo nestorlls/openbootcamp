@@ -20,3 +20,14 @@ function factorial ( num ) {
     if (num ===1) return 1;
     return num * factorial( num - 1);
 }
+
+//
+
+array1 = ['maria', 'josefa', 'roberta'];
+array2 = ['pedro', 'marcelo', array1]
+
+for (array in array2) {
+    if (array == 2){
+        for 
+    }
+}
